@@ -4,7 +4,7 @@ body{
 }
 
 profile-pic{  width: 300px;
-  object-fit: contain;
+  object-fit: none;
   display: flex;
 }
 
