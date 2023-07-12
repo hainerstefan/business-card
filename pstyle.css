@@ -7,7 +7,6 @@ profile-pic{  width: 300px;
   height: auto;
   object-fit: cover;
   display: flex;
-            max-width: 100%;
 }
 
 .card{
