@@ -14,10 +14,10 @@ profile-pic{  width: 300px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #d8cefe;
   display: flex;
-  justify-content:space-around;
-  padding: 20 px;
-  width: 400 px;
-  margin: 0 px auto;
-  border-bottom: 5 px rgb(89, 89, 161) solid;
+  justify-content:space-evenly;
+  padding: 20px;
+  width: 400px;
+  margin: 0px auto;
+  border-bottom: 5px rgb(89, 89, 161) solid;
 
 }
