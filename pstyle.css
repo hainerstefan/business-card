@@ -1,0 +1,22 @@
+body{
+  margin: 20px;
+  text-align: center;
+}
+
+profile-pic{  width: 300px;
+  object-fit: contain;
+  display: flex;
+}
+
+.card{
+  color: #2b2839;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #d8cefe;
+  display: flex;
+  justify-content:space-around;
+  padding: 20px;
+  width: 400px;
+  margin: 0px auto;
+  border-bottom: 5px rgb(89, 89, 161) solid;
+
+}
